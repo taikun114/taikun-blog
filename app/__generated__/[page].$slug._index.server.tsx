@@ -40,7 +40,7 @@ export const getResources = (_props: { system: System }) => {
 }): PageMeta => {
   let CMS = resources.CMS_1
   return {
-    title: CMS?.data?.data?.page?.title && CMS?.data?.data?.page?.title + " - たいくんの生活" || "コンテンツが見つかりませんでした - たいくんの生活",
+    title: CMS?.data?.data?.page?.title && CMS?.data?.data?.page?.title + " - たいくんの日記" || "コンテンツが見つかりませんでした - たいくんの日記",
     description: "",
     excludePageFromSearch: false,
     language: "ja-jp",

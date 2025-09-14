@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "e34fc6ad-70a3-4f9d-b9fb-9f1a5a49643b",
+    "id": "2826e8a5-318e-4c09-b09c-f2460e8f2c8b",
     "projectId": "5edcd3c2-3b0a-4880-8536-c12df5a32785",
-    "version": 367,
-    "createdAt": "2025-09-13T14:53:43.003+00:00",
-    "updatedAt": "2025-09-13T14:53:43.003+00:00",
+    "version": 369,
+    "createdAt": "2025-09-14T06:13:38.348+00:00",
+    "updatedAt": "2025-09-14T06:13:38.348+00:00",
     "pages": {
       "meta": {
         "siteName": "たいくんの日記",
@@ -87,7 +87,7 @@
         {
           "id": "lClufJshNuJMyCIBc0IUU",
           "name": "ページ",
-          "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
+          "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの日記\" || \"コンテンツが見つかりませんでした - たいくんの日記\"",
           "history": [
             "/page/notice",
             "/page/privacy-policy",
@@ -125,7 +125,7 @@
         {
           "id": "VwZa4-v7CXz6f_rreungz",
           "name": "404",
-          "title": "\"お探しの情報は見つかりませんでした - たいくんの生活\"",
+          "title": "\"お探しの情報は見つかりませんでした - たいくんの日記\"",
           "rootInstanceId": "hJNCqUzw0wU_Ki9NFnCGE",
           "meta": {
             "description": "\"\"",
@@ -39462,7 +39462,7 @@
     {
       "id": "lClufJshNuJMyCIBc0IUU",
       "name": "ページ",
-      "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの生活\" || \"コンテンツが見つかりませんでした - たいくんの生活\"",
+      "title": "$ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title && $ws$dataSource$nopB7EcZiRdz4hsYaVw6W.data.data.page.title + \" - たいくんの日記\" || \"コンテンツが見つかりませんでした - たいくんの日記\"",
       "history": [
         "/page/notice",
         "/page/privacy-policy",
@@ -39500,7 +39500,7 @@
     {
       "id": "VwZa4-v7CXz6f_rreungz",
       "name": "404",
-      "title": "\"お探しの情報は見つかりませんでした - たいくんの生活\"",
+      "title": "\"お探しの情報は見つかりませんでした - たいくんの日記\"",
       "rootInstanceId": "hJNCqUzw0wU_Ki9NFnCGE",
       "meta": {
         "description": "\"\"",

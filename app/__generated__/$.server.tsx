@@ -21,7 +21,7 @@ export const getResources = (_props: { system: System }) => {
   resources: Record<string, any>;
 }): PageMeta => {
   return {
-    title: "お探しの情報は見つかりませんでした - たいくんの生活",
+    title: "お探しの情報は見つかりませんでした - たいくんの日記",
     description: "",
     excludePageFromSearch: true,
     language: "ja-jp",
